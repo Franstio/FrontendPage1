@@ -1,0 +1,27 @@
+a.topbar:hover{
+	color: white !important;
+}
+a.topbar{
+	color:gray;
+}
+
+a.nav2{
+	color:#292b2c !important;
+}
+a.nav2:hover{
+	color: #00a8ff !important;
+}
+.carousel-item{
+	height: 666px;
+}
+.carousel-item img{
+	height: 666px
+}
+.right-content{
+	border-right: 1px solid #f7f7f7 !important;
+}
+.borderless{
+	border:0 none !important;
+}
+.postdate {
+display:block;color:#6c7781;font-size:13px;}
